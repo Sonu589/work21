@@ -1,6 +1,12 @@
-![localhost_3000_ (1)](https://user-images.githubusercontent.com/75136330/212552633-fe138d61-89da-4ece-9497-a6c779e50f33.png)
+# Login Page
+![Screenshot (992)](https://github.com/Sonu589/work21/assets/78155991/83e2c330-ccd2-4124-9f9e-ca6ea4c6aa5a)
 
-![localhost_3000_ (2)](https://user-images.githubusercontent.com/75136330/212552636-ad154d82-2358-4de7-b6b5-c6e68c8b918e.png)
+# Verify OTP Page
+![Screenshot (993)](https://github.com/Sonu589/work21/assets/78155991/027641d6-b182-478f-95dd-9050d7cfa5fc)
+
+# Main Page After Verification Successful  (Ignore Colour added for hide mobile number)
+![Screenshot (991)](https://github.com/Sonu589/work21/assets/78155991/08e0b6a6-4865-4bc5-8efd-a1bab924dd10)
+
 
 
 # Getting Started with Create React App
